@@ -63,7 +63,7 @@ IBM Professional Certified: Data Science ✔️
 
 
 <p><img alt="XBOX One" src="https://img.shields.io/badge/XBOX%20-%230070D1.svg?&style=for-the-badge&logo=XBOX&logoColor=white"/> I'm a Fifa Soccer player 🎮 </p>
-
+<p>🥋 Judo and Jiu-jitsu practitioner </p>
 
 
 ![](https://komarev.com/ghpvc/?username=renanmassena&color=blue&style=flat)
