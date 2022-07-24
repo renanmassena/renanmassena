@@ -44,7 +44,7 @@ IBM Professional Certified: Data Science ✔️
 * Bachelor of Accounting
 * CBA in Strategic Process Management
 * Postgraduate in Strategic People Management
-* MBA in Entrepreneurial Management and Innovation
+* MBA in Business Management and Innovation
 * MIT in Data Scientist, Data Analytics & Machine Learning
 
 
