@@ -1,5 +1,5 @@
 
-<h2>Hello, my name is Renan  </h2>
+<h2>Hello, my name is Renan  👋</h2>
 
 
 I am an analytics and data science student and am looking for job opportunities in this area to develop my skills.
@@ -7,7 +7,10 @@ I am an analytics and data science student and am looking for job opportunities 
 
 I enjoy learning, challenging myself, and working in a team environment.
 
-<h2>My contributions  </h2>
+
+IBM Certified: Data Science ✔️
+
+<h2>My contributions 💡</h2>
 
 <div align="center">
   <a href="https://github.com/renanmassena">
@@ -35,7 +38,7 @@ I enjoy learning, challenging myself, and working in a team environment.
 <br>
 
 
-<h2>My academic background </h2>
+<h2>My academic background 📖 </h2>
 
 * Bachelor of Business Administration
 * Bachelor of Accounting
@@ -51,6 +54,8 @@ I enjoy learning, challenging myself, and working in a team environment.
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="#"  >
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    
+:e-mail: renanmassena@hotmail.com
 </a>       
 <br>
 
