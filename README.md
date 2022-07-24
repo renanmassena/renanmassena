@@ -11,8 +11,8 @@ I enjoy learning, challenging myself, and working in a team environment.
 
 <div align="center">
   <a href="https://github.com/renanmassena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmassena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmassena&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renanmassena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmassena&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 
@@ -47,7 +47,7 @@ I enjoy learning, challenging myself, and working in a team environment.
 
 <br>
 <h2>Contact me! 💬</h2>
-<a href="https://www.linkedin.com/in/renanmassena"  >
+<a href="https://www.linkedin.com/in/renan-massena/"  >
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="#"  >
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
