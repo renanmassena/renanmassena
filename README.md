@@ -8,7 +8,7 @@ I am an analytics and data science student and am looking for job opportunities 
 I enjoy learning, challenging myself, and working in a team environment.
 
 
-IBM Certified: Data Science ✔️
+IBM Professional Certified: Data Science ✔️
 
 <h2>My contributions 💡</h2>
 
